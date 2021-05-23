@@ -1,0 +1,4 @@
+<config>
+    <database application="simplemedia">C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 5\SimpleMedia\products.xml</database>
+    <database application="mymedia">C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 5\Business system\Laboration 4\Database\inventory.csv</database>
+</config>

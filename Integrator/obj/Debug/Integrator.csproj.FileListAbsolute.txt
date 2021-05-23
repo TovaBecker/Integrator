@@ -1,0 +1,7 @@
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 5\Integrator\Integrator\bin\Debug\Integrator.exe.config
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 5\Integrator\Integrator\bin\Debug\Integrator.exe
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 5\Integrator\Integrator\bin\Debug\Integrator.pdb
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 5\Integrator\Integrator\obj\Debug\Integrator.csprojAssemblyReference.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 5\Integrator\Integrator\obj\Debug\Integrator.csproj.CoreCompileInputs.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 5\Integrator\Integrator\obj\Debug\Integrator.exe
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 5\Integrator\Integrator\obj\Debug\Integrator.pdb
